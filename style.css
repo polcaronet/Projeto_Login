@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 450px;
+    height: 450px;  
+    border: 2px solid violet;
+
+ display: flex; 
+
+
+}
+
+.box{
+    background-color: gray;
+    border: 1px solid red;
+    height: 60px;
+    width: 60px;
+
+   flex: 1 1 100px;
+}
+
+
