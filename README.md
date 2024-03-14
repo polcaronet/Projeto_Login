@@ -1,4 +1,4 @@
-# Site de página de login _`Projeto Login`_ do professor _`Matheus Fraga`_
+# Site do _`Projeto Login`_ do professor _`Matheus Fraga`_
 **Esse foi um projeto aonde aprendi GriD e Flexbox no Tailwind!**
 ##
 **_`Meu site`_:**</div>
